@@ -38,7 +38,7 @@
   - 구현을 위한 지식 학습
 
 #### 1. Mathematics
-  - 미적분학, 공학수학, 선형대수학, 확률/통계
+  - 학습순서: 미적분학 - 공학수학 - 선형대수학 - 확률/통계
   - 추천교재 및 강의
     - [Book: 미분적분학 : 기초부터 응용까지](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2195975973)
     - [Book: STEM CookBook, 응용이 보이는 공학수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B1756720070)
@@ -46,7 +46,8 @@
     - [Book: 딥러닝을 위한 선형대수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B9479195027)
     - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
 #### 2. Coding Test
-  - 
+  - 학습 순서
+    - 입출력 - 기본문법 - 자료구조(라이브러리) - 알고리즘(라이브러리) - solved.ac(class00-class03) - programmers(lv00-lv03) - solved.ac(class04-class05) 
   - 플랫폼
     - [BeakJoon Online Judge](https://www.acmicpc.net/)
     - [Solved.ac](https://solved.ac/)
@@ -56,8 +57,7 @@
     - [Video: 바킹독의 실전 알고리즘 강의 with C++](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
     - [Video: 이것이 취업을 위한 코딩테스트다 with Python](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
     - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
-    - []()
-    - []()
+    - [Book: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
 #### 3. Physics
   - 일반물리학, 전자기학, 회로이론
   - 추천교재 및 강의
@@ -72,14 +72,31 @@
     - 필수: **정보처리기사**/정보보안기사 중 택 1
   - 추천교재 및 강의
     - [Video: 이것이 취업을 위한 컴퓨터과학이다 with CS 기술면접](https://www.youtube.com/playlist?list=PLVsNizTWUw7GVLg1B6w9PQSiO7yx8TOYA) 
-    - Progarmming Langauge
+    - Progarmming Langauge(C/C++/C#)
       - [Book: 모두의 코드(C/C++)](https://modoocode.com/)
+      - [Doc: GNU(C)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+      - [Doc: cppreference(C++)](https://cppreference.com/)
+      - [Doc: cplusplus](https://cplusplus.com/)
+    - Progarmming Langauge(C#)
+      - [Book: 이것이 C#이다(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4336689405)
+      - [Book: 예제로 배우는 C# 프로그래밍](https://www.csharpstudy.com/)
+      - [Doc: C# Documentation](https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/)
+    - Progarmming Langauge(Java)
       - [Video: 이것이 자바다(3판)](https://www.youtube.com/playlist?list=PLVsNizTWUw7EmX1Y-7tB2EmsK6nu6Q10q)
-      - [Book: 코딩도장(파이썬)](https://dojang.io/course/view.php?id=7)
+      - [Doc: Java21 Documentation](https://docs.oracle.com/en/java/javase/21/)
+    - Progarmming Langauge(JavaScript)
       - [Book: Modern JavaScript 튜토리얼](https://ko.javascript.info/)
+      - [Doc: MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+      - [Doc: VanillaJS](http://vanilla-js.com/)
+      - [Doc: TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
+    - Progarmming Langauge(Python)
+      - [Book: 코딩도장(파이썬)](https://dojang.io/course/view.php?id=7)
+      - [Doc: Python 3.13](https://docs.python.org/3.13/)
     - Algorithm
       - [Book: Introduction To Algorithms](https://product.kyobobook.co.kr/detail/S000213683944)
       - [Video: 홍정모 연구소 자료구조 + 알고리즘](https://www.honglab.ai/bundles/data-structures-algorithms)
+      - [Book: 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트](프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트)
+      - [Book: 코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://product.kyobobook.co.kr/detail/S000001834528)
     - Operating System
       - [Book: 운영체제](https://product.kyobobook.co.kr/detail/S000001868743)
       - [Video: 혼자 공부하는 컴퓨터구조 + 운영체제](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
