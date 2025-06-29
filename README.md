@@ -1,7 +1,6 @@
 # Roadmap
 
 ## English
-0. 목표설정
 - 학습목표
   - 정보 습득을 위한 문서 읽기 및 듣기
   - 정보 전달을 위한 말하기 및 쓰기
@@ -68,6 +67,9 @@
 ## Advanced
 #### 1. SW
   - Progarmming Language, Algorithm, Operating System/System Programming, Database/SQL, Network
+  - 추천자격증
+    - 선택: 네트워크관리사(2급)/리눅스마스터(2급)/SQLD
+    - 필수: **정보처리기사**/정보보안기사 중 택 1
   - 추천교재 및 강의
     - [Video: 이것이 취업을 위한 컴퓨터과학이다 with CS 기술면접](https://www.youtube.com/playlist?list=PLVsNizTWUw7GVLg1B6w9PQSiO7yx8TOYA) 
     - Progarmming Langauge
@@ -96,10 +98,14 @@
     - [Video: Udemy](https://www.udemy.com/)
     - [Video: MOOC](https://www.mooc.org/)
     - [Video: BoostCourse](https://www.boostcourse.org/)
+    - [Book: DreamHack](https://dreamhack.io/)
+    - [Video: HongLab](https://www.honglab.ai/)
 
 #### 2. HW
- - 전자기학, 회로이론, 전자회로, 전력공학, 전력전자, 반도체공학, Verilog, 임베디드, Arduino/RaspberryPi/ARM(Cortex)
-
-- 참고자료
-  - [IDEC]()
-  - []() 
+  - 전자기학, 회로이론, 전자회로, 전력공학, 전력전자, 반도체공학, Verilog, 임베디드, Arduino/RaspberryPi/ARM(Cortex)
+  - 추천자격증
+    - 선택: 리눅스마스터(1급) 
+    - 필수: 전기기사/**정보통신기사**
+  - 참고자료
+    - [IDEC]()
+    - []() 
