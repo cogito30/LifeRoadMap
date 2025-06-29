@@ -48,8 +48,12 @@
     - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
 2. Coding Test
   - 
+  - 플랫폼
+    - [BeakJoon Online Judge](https://www.acmicpc.net/)
+    - [Solved.ac](https://solved.ac/)
+    - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)
+    - [HackerRank](https://www.hackerrank.com/dashboard)
   - 추천교재 및 강의
-    - []()
     - [Video: 바킹독의 실전 알고리즘 강의 with C++](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
     - [Video: 이것이 취업을 위한 코딩테스트다 with Python](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
     - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
