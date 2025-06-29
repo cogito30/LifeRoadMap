@@ -83,8 +83,19 @@
       - [Book: 소문난 명강의 김길성의 네트워크 딥다이브](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9674813480)
       - [Video: 혼자 공부하는 네트워크](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM)
     - Database
-      - [Video: 혼자 공부한느 SQL](https://www.youtube.com/playlist?list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm)
-      - []()   
+      - [Video: 혼자 공부하는 SQL](https://www.youtube.com/playlist?list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm)
+      - []()
+  - 참고자료
+    - [Roadmap.sh](https://roadmap.sh/)
+    - [Video: FreeCodeCamp](https://www.youtube.com/@freecodecamp) 
+    - [Video: 인프런](https://www.inflearn.com/)
+    - [Video: Udemy](https://www.udemy.com/)
+    - [Video: MOOC](https://www.mooc.org/)
+    - [Video: BoostCourse](https://www.boostcourse.org/)
+
 2. HW
  - 전자기학, 회로이론, 전자회로, 전력공학, 전력전자, 반도체공학, Verilog, 임베디드, Arduino/RaspberryPi/ARM(Cortex)
-     
+
+- 참고자료
+  - [IDEC]()
+  - []() 
