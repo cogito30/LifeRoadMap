@@ -10,20 +10,20 @@
   - 영단어 및 숙어 암기
   - 글 구조 파악
 
-1. [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
+#### 1. [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
   - 추천교재 및 강의
     - [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206) 
     - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
-2. [TOEIC](https://www.toeic.co.kr/)
+#### 2. [TOEIC](https://www.toeic.co.kr/)
   - 추천교재 및 강의
     - [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673)
     - [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668)
     - [Video: 서아쌤의 비밀과와](https://www.youtube.com/@Seoahssem_Official/videos)
     - [Video: 나눔의 가치, 나가치 토익](https://www.youtube.com/@TOEIC-ValueOfSharing/videos)
-3. [OPIC](https://www.opic.or.kr/opics/jsp/view/index.jsp)
+#### 3. [OPIC](https://www.opic.or.kr/opics/jsp/view/index.jsp)
   - 추천교재 및 강의
     - [Book: 10일 만에 끝내는 해커스 OPIc 오픽 START: Intermediate 공략](https://product.kyobobook.co.kr/detail/S000208578134)
-4. [IELTS](https://ieltskorea.org/korea)
+#### 4. [IELTS](https://ieltskorea.org/korea)
   - 추천교재 및 강의
     - [Book: 해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
     - [Book: 해커스 아이엘츠 리딩 베이직](https://product.kyobobook.co.kr/detail/S000001020191)
@@ -38,7 +38,7 @@
   - 수식 진행 과정 및 의미 파악
   - 구현을 위한 지식 학습
 
-1. Mathematics
+#### 1. Mathematics
   - 미적분학, 공학수학, 선형대수학, 확률/통계
   - 추천교재 및 강의
     - [Book: 미분적분학 : 기초부터 응용까지](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2195975973)
@@ -46,7 +46,7 @@
     - [Book: STEM CookBook, MATLAB으로 배우는 선형대수학(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B7790829067)
     - [Book: 딥러닝을 위한 선형대수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B9479195027)
     - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
-2. Coding Test
+#### 2. Coding Test
   - 
   - 플랫폼
     - [BeakJoon Online Judge](https://www.acmicpc.net/)
@@ -59,14 +59,14 @@
     - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
     - []()
     - []()
-3. Physics
+#### 3. Physics
   - 일반물리학, 전자기학, 회로이론
   - 추천교재 및 강의
     - []()
     - []()
 
 ## Advanced
-1. SW
+#### 1. SW
   - Progarmming Language, Algorithm, Operating System/System Programming, Database/SQL, Network
   - 추천교재 및 강의
     - [Video: 이것이 취업을 위한 컴퓨터과학이다 with CS 기술면접](https://www.youtube.com/playlist?list=PLVsNizTWUw7GVLg1B6w9PQSiO7yx8TOYA) 
@@ -97,7 +97,7 @@
     - [Video: MOOC](https://www.mooc.org/)
     - [Video: BoostCourse](https://www.boostcourse.org/)
 
-2. HW
+#### 2. HW
  - 전자기학, 회로이론, 전자회로, 전력공학, 전력전자, 반도체공학, Verilog, 임베디드, Arduino/RaspberryPi/ARM(Cortex)
 
 - 참고자료
