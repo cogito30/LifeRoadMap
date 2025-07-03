@@ -13,7 +13,7 @@
 - 정보보안기사: 정보보안기사 + DreamHack + Kali Linux
 - 그래픽스: 홍정모연구소 + C++/DirectX/OpenGL/Vulkan
 - 데이터분석: ADsP + 빅데이터분석기사 + 데이터사이언스스쿨 + Python/Scikit-Learn
-- AI: Kaggle + Papers with Code + 밑바닥부터 시작하는 딥러닝 1-5 + Python/PyTorch 
+- AI: Kaggle + Papers with Code + 밑바닥부터 시작하는 딥러닝 1-5 + 모두의연구소 + Python/PyTorch 
 - 임베디드: 정보통신기사 + Arduino/RaspberryPi + ARM + C/Linux Kernel
 
 ## English
