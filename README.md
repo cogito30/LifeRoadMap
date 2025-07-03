@@ -1,11 +1,27 @@
 # Roadmap
 
+1) 영어
+- TOEIC(800+)
+- TOEIC SPEAKING(160+)
+- IELTS(7.0+)
+2) 코딩테스트
+- Programmers(Lv3+)
+- Solved.ac(Class05+)  
+3) 심화학습
+- 웹개발BackEnd: 정보처리기사 + SQLD + Java/Spring(김영한)
+- 웹개발FrontEnd: 정보처리기사 + JavaScript/React
+- 정보보안기사: 정보보안기사 + DreamHack + Kali Linux
+- 그래픽스: 홍정모연구소 + C++/DirectX/OpenGL/Vulkan
+- 데이터분석: ADsP + 빅데이터분석기사 + 데이터사이언스스쿨 + Python/Scikit-Learn
+- AI: Kaggle + Papers with Code + 밑바닥부터 시작하는 딥러닝 1-5 + Python/PyTorch 
+- 임베디드: 정보통신기사 + Arduino/RaspberryPi + ARM + C/Linux Kernel
+
 ## English
 - 학습목표
   - 정보 습득을 위한 문서 읽기 및 듣기
   - 정보 전달을 위한 말하기 및 쓰기
 - 학습방법
-  - 주요 문법 파악
+  - 주요 문법 파악ㅌ
   - 영단어 및 숙어 암기
   - 글 구조 파악
 
