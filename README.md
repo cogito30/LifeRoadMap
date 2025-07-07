@@ -42,20 +42,8 @@
     - [Book: STEM CookBook, MATLAB으로 배우는 선형대수학(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B7790829067)
     - [Book: 딥러닝을 위한 선형대수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B9479195027)
     - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
-#### 2. Coding Test
-  - 학습 순서
-    - 입출력 - 기본문법 - 자료구조(라이브러리) - 알고리즘(라이브러리) - solved.ac(class00-class03) - programmers(lv00-lv03) - solved.ac(class04-class05) 
-  - 플랫폼
-    - [BeakJoon Online Judge](https://www.acmicpc.net/)
-    - [Solved.ac](https://solved.ac/)
-    - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)
-    - [HackerRank](https://www.hackerrank.com/dashboard)
-  - 추천교재 및 강의
-    - [Video: 바킹독의 실전 알고리즘 강의 with C++](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
-    - [Video: 이것이 취업을 위한 코딩테스트다 with Python](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
-    - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
-    - [Book: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
-#### 3. Physics
+
+#### 2. Physics
   - 일반물리학, 전자기학, 회로이론
   - 추천교재 및 강의
     - []()
