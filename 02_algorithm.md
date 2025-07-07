@@ -21,6 +21,11 @@
   - 요구사항분석 + 해결과정
   - 배운점
 
+## 학습방법
+```
+- 기본 문법 -> 자료구조/알고리즘 -> 문제풀이(Programmers Lv00-Lv03/Solved.ac Class00-Class05)
+```
+
 ## 참고자료
 - 플랫폼
   - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)
