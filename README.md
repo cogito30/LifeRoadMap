@@ -25,25 +25,6 @@
   - 영단어 및 숙어 암기
   - 글 구조 파악
 
-#### 1. [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
-  - 추천교재 및 강의
-    - [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206) 
-    - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
-#### 2. [TOEIC](https://www.toeic.co.kr/)
-  - 추천교재 및 강의
-    - [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673)
-    - [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668)
-    - [Video: 서아쌤의 비밀과와](https://www.youtube.com/@Seoahssem_Official/videos)
-    - [Video: 나눔의 가치, 나가치 토익](https://www.youtube.com/@TOEIC-ValueOfSharing/videos)
-#### 3. [OPIC](https://www.opic.or.kr/opics/jsp/view/index.jsp)
-  - 추천교재 및 강의
-    - [Book: 10일 만에 끝내는 해커스 OPIc 오픽 START: Intermediate 공략](https://product.kyobobook.co.kr/detail/S000208578134)
-#### 4. [IELTS](https://ieltskorea.org/korea)
-  - 추천교재 및 강의
-    - [Book: 해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
-    - [Book: 해커스 아이엘츠 리딩 베이직](https://product.kyobobook.co.kr/detail/S000001020191)
-    - [Book: 해커스 아이엘츠 스피킹 베이직](https://product.kyobobook.co.kr/detail/S000001020195)
-    - [Book: 해커스 아이엘츠 라이팅 베이직](https://product.kyobobook.co.kr/detail/S000001020193)
 
 ## BASIC
 - 학습목표
