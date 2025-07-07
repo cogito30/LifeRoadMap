@@ -22,8 +22,21 @@
   - 배운점
 
 ## 참고자료
-- 플랫폼: Programmers || Solved.ac(Baekjoon Online Judge) || SW Expert Academy || LeetCode || Hacker Rank
-- C++: 바킹독의 실전알고리즘 || 문제해결전략세트
-- Java:
-- JavaScript: 
-- Python: 이것이 코딩테스트다
+- 플랫폼
+  - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)
+  - [BeakJoon Online Judge](https://www.acmicpc.net/)
+  - [Solved.ac](https://solved.ac/)
+  - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+  - [LeetCode](https://leetcode.com/problemset/)
+  - [HackerRank](https://www.hackerrank.com/dashboard)
+- C++
+  - [Video: 바킹독의 실전 알고리즘 강의 with C++](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
+  - [Book: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
+  - 문제해결전략세트
+- Java
+  - 
+- JavaScript
+  - 
+- Python
+  - [Video: 이것이 취업을 위한 코딩테스트다 with Python](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+  - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
