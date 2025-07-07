@@ -1,6 +1,6 @@
 # 영어
 
-## TOEIC
+## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
 
 #### 유형
 | 파트 | 유형 | 문항수 | 총시간 | 문항당 시간 |
@@ -22,10 +22,12 @@
 
 #### 참고자료
 - EBS 로즈리의 Grammar Holic-영문법 특강
-- 해커스 토익 Listening 기본서: 30day(10h/day)
-- 해커스 토익 Reading 기본서: 30day(10h/day)
+- [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 30day(10h/day)
+- [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 30day(10h/day)
 - 해커스 토익 기출 VOCA: 30day(2h/day)
-- ETS 토익 단기공략 750+(LC+RC): 
+- ETS 토익 단기공략 750+(LC+RC)
+- [Video: 서아쌤의 비밀과와](https://www.youtube.com/@Seoahssem_Official/videos)
+- [Video: 나눔의 가치, 나가치 토익](https://www.youtube.com/@TOEIC-ValueOfSharing/videos)
 
 ## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
 
@@ -61,11 +63,24 @@
 
 #### 참고자료
 
-## IELTS
+## [OPIC](https://www.opic.or.kr/opics/jsp/view/index.jsp)
 
 #### 유형
 
 #### 학습방법
 
 #### 참고자료
+- [Book: 10일 만에 끝내는 해커스 OPIc 오픽 START: Intermediate 공략](https://product.kyobobook.co.kr/detail/S000208578134)
+
+## [IELTS](https://ieltskorea.org/korea)
+
+#### 유형
+
+#### 학습방법
+
+#### 참고자료
+- [Book: 해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
+- [Book: 해커스 아이엘츠 리딩 베이직](https://product.kyobobook.co.kr/detail/S000001020191)
+- [Book: 해커스 아이엘츠 스피킹 베이직](https://product.kyobobook.co.kr/detail/S000001020195)
+- [Book: 해커스 아이엘츠 라이팅 베이직](https://product.kyobobook.co.kr/detail/S000001020193)
 
