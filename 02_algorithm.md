@@ -22,6 +22,7 @@
   - 배운점
 
 ## 참고자료
+- 플랫폼: Programmers || Solved.ac(Baekjoon Online Judge) || SW Expert Academy || LeetCode || Hacker Rank
 - C++: 바킹독의 실전알고리즘 || 문제해결전략세트
 - Java:
 - JavaScript: 
