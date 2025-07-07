@@ -34,9 +34,9 @@
   - [Book: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
   - 문제해결전략세트
 - Java
-  - 
+  - [Book: ]
 - JavaScript
-  - 
+  - [Book: ]
 - Python
   - [Video: 이것이 취업을 위한 코딩테스트다 with Python](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
   - [Book: 잔재미코딩](https://www.fun-coding.org/post/funcodingcodes.html)
