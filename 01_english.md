@@ -27,7 +27,7 @@
 - 해커스 토익 기출 VOCA: 30day(2h/day)
 - ETS 토익 단기공략 750+(LC+RC): 
 
-## TOEIC SPEAKING
+## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
 
 #### 유형
 | 파트 | 유형 | 문항수 | 답변 준비 시간 | 답변 시간 |
@@ -45,8 +45,8 @@
 
 #### 참고자료
 - ETS 토익스피킹(토스) 기출 단기공략
-- 10일만에 끝내는 토익스피킹(해커스) 교재: 10day(4h/day)
-- Youtube: 시계토끼제니쌤
+- [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206): 10day(4h/day)
+- [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
 
 ## TOEIC WRITING
 
