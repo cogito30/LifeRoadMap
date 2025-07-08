@@ -81,6 +81,8 @@
 #### 유형
 
 #### 학습방법
+```
+```
 
 #### 참고자료
 - [Book: 10일 만에 끝내는 해커스 OPIc 오픽 START: Intermediate 공략](https://product.kyobobook.co.kr/detail/S000208578134)
@@ -90,6 +92,8 @@
 #### 유형
 
 #### 학습방법
+```
+```
 
 #### 참고자료
 - [Book: 해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
