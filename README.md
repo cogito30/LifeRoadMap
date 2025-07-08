@@ -35,19 +35,24 @@
   - 구현을 위한 지식 학습
 
 #### 1. Mathematics
-  - 학습순서: 미적분학 - 공학수학 - 선형대수학 - 확률/통계
-  - 추천교재 및 강의
-    - [Book: 미분적분학 : 기초부터 응용까지](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2195975973)
-    - [Book: STEM CookBook, 응용이 보이는 공학수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B1756720070)
-    - [Book: STEM CookBook, MATLAB으로 배우는 선형대수학(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B7790829067)
-    - [Book: 딥러닝을 위한 선형대수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B9479195027)
-    - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
+- 학습순서: 미적분학 - 공학수학 - 선형대수학 - 확률/통계
+- 추천교재 및 강의
+  - [Book: 미분적분학 : 기초부터 응용까지](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2195975973)
+  - [Book: STEM CookBook, 응용이 보이는 공학수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B1756720070)
+  - [Book: STEM CookBook, MATLAB으로 배우는 선형대수학(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B7790829067)
+  - [Book: 딥러닝을 위한 선형대수학](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B9479195027)
+  - [Book: STEM CookBook, 생생한 사례로 배우는 확률과 통계(2판)](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B6247653252)
 
 #### 2. Physics
-  - 일반물리학, 전자기학, 회로이론
-  - 추천교재 및 강의
-    - []()
-    - []()
+- 일반물리학, 전자기학, 회로이론
+- 추천교재 및 강의
+  - []()
+  - []()
+
+#### 3. Algorithm
+- 요구사항분석: 제약사항, 입력, 출력
+- 해결과정작성: 변수명, 함수명, 풀이과정
+- 배운점: 알고리즘, 메서드, 동작방식
 
 ## Advanced
 #### 1. SW
