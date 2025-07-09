@@ -17,8 +17,8 @@
 ```
 (30일 과정)
 - 단어장: 해커스 토익 기출 VOCA
-- 기본서: ETS 토익 단기공략 750+(LC+RC)
-- 기출문제:
+- 기본서: ETS 토익 단기공략 750+(LC+RC) + 온라인 무료강의
+- 기출문제: 
 ```
 1) 단어장으로 주요 단어 암기
 2) 기본서로 기본기 학습
@@ -30,6 +30,8 @@
 - [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 30day(10h/day)
 - [Book: 해커스 토익 기출 VOCA](https://product.kyobobook.co.kr/detail/S000001020219): 30day(2h/day)
 - [Book: ETS 토익 단기공략 750+(LC+RC)](https://product.kyobobook.co.kr/detail/S000216933473)
+- [Video: ETS 토익 단기공략 650+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvh3N7r8cVt8Z4aRbLlvJjlP)
+- [Video: ETS 토익 단기공략 750+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9)
 - [Video: 서아쌤의 비밀과와](https://www.youtube.com/@Seoahssem_Official/videos)
 - [Video: 나눔의 가치, 나가치 토익](https://www.youtube.com/@TOEIC-ValueOfSharing/videos)
 
