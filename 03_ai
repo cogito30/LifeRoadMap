@@ -4,6 +4,11 @@
 - Python + Pandas + Matplotlib/Seaborn + Scikit-Learn + PyTorch + VSCode
 - 자격증: ADsP + 빅데이터분석기사
 
+## 주요학습
+- 수식 이해
+- 논문을 통한 모델 구현(모델별 주요 알고리즘 파악)
+- 도메인 이해 및 필요 모델 구현
+
 ## 데이터사이언스 로드맵
 1) Python 문법 학습
 - Python 공식문서
