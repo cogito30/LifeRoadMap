@@ -4,7 +4,26 @@
 - Python + Pandas + Matplotlib/Seaborn + Scikit-Learn + PyTorch + VSCode
 - 자격증: ADsP + 빅데이터분석기사
 
-## 
+## 데이터사이언스 로드맵
+1) Python 문법 학습
+- Python 공식문서
+- 코딩도장
+2) 데이터사이언스 이론 학습
+- 데이터사이언스스쿨
+- ADsP 취득
+- 빅데이터분석기사 취득
+3) 기본 라이브러리/프레임워크 학습
+- Kaggle 튜토리얼
+- 데이터처리: pandas
+- 시각화: matplotlib, seaborn
+- 데이터분석: statsmodel, scikit-learn
+- 인공지능 모델: PyTorch, tensorflow
+4) 데이터분석
+- kaggle 데이터분석
+- dacon 데이터분석
+- Recommender System
+
+## 인공지능 로드맵
 1) Python 문법 학습
 - Python 공식문서
 - 코딩도장
