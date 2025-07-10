@@ -25,9 +25,9 @@
 
 #### 참고자료
 - EBS 로즈리의 Grammar Holic-영문법 특강
-- [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 30day(10h/day)
-- [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 30day(10h/day)
-- [Book: 해커스 토익 기출 VOCA](https://product.kyobobook.co.kr/detail/S000001020219): 30day(2h/day)
+- [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673)
+- [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668)
+- [Book: 해커스 토익 기출 VOCA](https://product.kyobobook.co.kr/detail/S000001020219)
 - [Video: ETS 토익 단기공략 650+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvh3N7r8cVt8Z4aRbLlvJjlP)
 - **[Book: ETS 토익 단기공략 750+(LC+RC)](https://product.kyobobook.co.kr/detail/S000216933473)**
 - [Video: ETS 토익 단기공략 750+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9)
@@ -53,7 +53,7 @@
 #### 참고자료
 - [Book: ETS 토익스피킹(토스) 기출 단기공략](https://product.kyobobook.co.kr/detail/S000060621439)
 - [Book: 28시간에 끝내는 토익스피킹 스타트](https://product.kyobobook.co.kr/detail/S000001893506)
-- [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206): 10day(4h/day)
+- [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206)
 - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
 
 ## TOEIC WRITING
