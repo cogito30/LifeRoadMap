@@ -23,7 +23,12 @@
 
 ## 학습방법
 ```
-- 기본 문법 -> 자료구조/알고리즘 -> 문제풀이(Programmers Lv00-Lv03/Solved.ac Class00-Class05)
+- 기본문법 -> 자료구조/알고리즘
+- Solved.ac(Class00-Class03)
+- Programmers(Lv00-Lv01)
+- Programmers(고득점 Kit)
+- Solved.ac(Class04-Class05)
+- Programmers(Lv02-Lv03)
 ```
 
 ## 참고자료
