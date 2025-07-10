@@ -15,7 +15,6 @@
   
 #### 학습방법
 ```
-(30일 과정)
 - 단어장: 해커스 토익 기출 VOCA
 - 기본서: ETS 토익 단기공략 750+(LC+RC) + 온라인 무료강의
 - 기출문제: 
@@ -29,10 +28,10 @@
 - [Book: 해커스 토익 LISTENING 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 30day(10h/day)
 - [Book: 해커스 토익 READING 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 30day(10h/day)
 - [Book: 해커스 토익 기출 VOCA](https://product.kyobobook.co.kr/detail/S000001020219): 30day(2h/day)
-- [Book: ETS 토익 단기공략 750+(LC+RC)](https://product.kyobobook.co.kr/detail/S000216933473)
 - [Video: ETS 토익 단기공략 650+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvh3N7r8cVt8Z4aRbLlvJjlP)
+- **[Book: ETS 토익 단기공략 750+(LC+RC)](https://product.kyobobook.co.kr/detail/S000216933473)**
 - [Video: ETS 토익 단기공략 750+](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9)
-- [Video: 서아쌤의 비밀과와](https://www.youtube.com/@Seoahssem_Official/videos)
+- [Video: 서아쌤의 비밀과외](https://www.youtube.com/@Seoahssem_Official/videos)
 - [Video: 나눔의 가치, 나가치 토익](https://www.youtube.com/@TOEIC-ValueOfSharing/videos)
 
 ## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
@@ -48,12 +47,12 @@
   
 #### 학습방법
 ```
-(10일 과정)
 - ETS 토익스피킹(토스) 기출 단기공략
 ```
 
 #### 참고자료
-- ETS 토익스피킹(토스) 기출 단기공략
+- [Book: ETS 토익스피킹(토스) 기출 단기공략](https://product.kyobobook.co.kr/detail/S000060621439)
+- [Book: 28시간에 끝내는 토익스피킹 스타트](https://product.kyobobook.co.kr/detail/S000001893506)
 - [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206): 10day(4h/day)
 - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
 
@@ -68,7 +67,6 @@
 
 #### 학습방법
 ```
-(10일 과정)
 - ETS 토익라이팅 기출 공식대비서
 ```
 1) 기본 문법 학습
