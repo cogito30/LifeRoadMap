@@ -47,7 +47,8 @@
   
 #### 학습방법
 ```
-- ETS 토익스피킹(토스) 기출 단기공략
+- 파트별 템플릿: 시계토끼제니쌤
+- [만능문장 모음집](https://www.youtube.com/watch?v=ZzyolBABSIw) 암기
 ```
 
 #### 참고자료
@@ -55,6 +56,7 @@
 - [Book: 28시간에 끝내는 토익스피킹 스타트](https://product.kyobobook.co.kr/detail/S000001893506)
 - [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206)
 - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
+- [Video: 토익스피킹 전파트 10시간 총정리(세이임)](https://www.youtube.com/watch?v=bEBTXbKjsfs)
 
 ## TOEIC WRITING
 
