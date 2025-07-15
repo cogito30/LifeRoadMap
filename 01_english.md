@@ -15,8 +15,8 @@
   
 #### 학습방법
 ```
-- 단어장: 해커스 토익 기출 VOCA
 - 기본서: ETS 토익 단기공략 750+(LC+RC) + 온라인 무료강의
+- 단어장: 해커스 토익 기출 VOCA
 - 기출문제: 
 ```
 1) 단어장으로 주요 단어 암기
@@ -47,8 +47,11 @@
   
 #### 학습방법
 ```
-- 파트별 템플릿: 시계토끼제니쌤
-- [만능문장 모음집](https://www.youtube.com/watch?v=ZzyolBABSIw) 암기
+(8일 과정)
+- Part03, Part04, Part05 위주 학습
+- 시계토끼제니쌤 파트별 핵심강의 듣기
+- 파트별 템플릿 암기
+- 만능문장 모음집 암기
 ```
 
 #### 참고자료
@@ -57,6 +60,7 @@
 - [Book: 10일 만에 끝내는 해커스 토익스피킹](https://product.kyobobook.co.kr/detail/S000061351206)
 - [Video: 시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
 - [Video: 토익스피킹 전파트 10시간 총정리(세이임)](https://www.youtube.com/watch?v=bEBTXbKjsfs)
+- [Video: 토익스피킹 만능문장 모읍집](https://www.youtube.com/watch?v=ZzyolBABSIw)
 
 ## TOEIC WRITING
 
