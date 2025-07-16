@@ -1,6 +1,6 @@
 # 영어
 
-## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
+## [TOEIC](https://www.toeicswt.co.kr/)
 
 #### 유형
 | 파트 | 유형 | 문항수 | 총시간 | 문항당 시간 |
