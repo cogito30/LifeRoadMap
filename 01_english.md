@@ -62,7 +62,7 @@
 - [Video: 토익스피킹 전파트 10시간 총정리(세이임)](https://www.youtube.com/watch?v=bEBTXbKjsfs)
 - [Video: 토익스피킹 만능문장 모읍집](https://www.youtube.com/watch?v=ZzyolBABSIw)
 
-## TOEIC WRITING
+## [TOEIC WRITING](https://www.toeicswt.co.kr/)
 
 #### 유형
 | 파트 | 유형 | 문항수 | 답변 시간 |
